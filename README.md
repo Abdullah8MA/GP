@@ -1,2 +1,2 @@
 # GP
-Gradution project
+Graduation Project
